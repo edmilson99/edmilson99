@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Desenvolvedor iniciante
+- 👨‍💻 Desenvolvedor
 - 👨‍🎓 Análise e Desenvolvimento de Sistemas - UVA | Universidade Veiga de Almeida
 
 ##
